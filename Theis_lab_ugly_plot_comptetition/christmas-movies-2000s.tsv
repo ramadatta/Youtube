@@ -1,0 +1,623 @@
+Title	Year	Rating	Runtime	Score	Votes	Famous	RatingGroup
+Love Actually	2003	R	135	7.6	491920	TRUE	Other
+Spirited	2022	PG-13	127	6.6	34304	TRUE	PG
+How the Grinch Stole Christmas	2000	PG	104	6.3	259796	TRUE	PG
+Elf	2003	PG	97	7.1	279415	TRUE	PG
+The Grinch	2018	PG	85	6.3	74763	TRUE	PG
+The Polar Express	2004	G	100	6.6	215021	TRUE	G
+Klaus	2019	PG	96	8.1	157023	TRUE	PG
+Last Christmas	2019	PG-13	103	6.5	81506	TRUE	PG
+A Christmas Carol	2009	PG	96	6.8	119620	TRUE	PG
+The Santa Clause 2	2002	G	104	5.7	60045	TRUE	G
+Four Christmases	2008	PG-13	88	5.7	74951	TRUE	PG
+Christmas with the Kranks	2004	PG	99	5.4	52496	TRUE	PG
+A Bad Moms Christmas	2017	R	104	5.6	53394	TRUE	Other
+The Christmas Chronicles	2018	PG	104	7	76283	TRUE	PG
+Bad Santa	2003	R	92	7.1	146956	TRUE	Other
+Office Christmas Party	2016	R	105	5.9	82565	TRUE	Other
+Deck the Halls	2006	PG	93	5	30081	TRUE	PG
+The Santa Clause 3: The Escape Clause	2006	G	92	4.8	39722	TRUE	G
+This Is Christmas	2022	NA	111	6.9	1183	FALSE	Other
+Arthur Christmas	2011	PG	97	7.1	61975	TRUE	PG
+Fred Claus	2007	PG	116	5.6	45264	TRUE	PG
+Love Hard	2021	TV-MA	104	6.3	54441	TRUE	Other
+Holidate	2020	TV-MA	104	6.1	68788	TRUE	Other
+Happiest Season	2020	PG-13	102	6.6	42020	TRUE	PG
+The Christmas Chronicles: Part Two	2020	PG	112	6	31909	TRUE	PG
+Noelle	2019	G	100	6.3	23532	TRUE	G
+Little Women	2019	PG	135	7.8	207248	TRUE	PG
+Five More Minutes: Moments Like These	2022	TV-G	84	6.8	324	FALSE	G
+8-Bit Christmas	2021	PG	97	6.7	18471	TRUE	PG
+Nativity!	2009	PG	105	6.4	11417	TRUE	PG
+Fatman	2020	R	100	5.9	26660	TRUE	Other
+Home Sweet Home Alone	2021	PG	93	3.6	17995	TRUE	PG
+Shazam!	2019	PG-13	132	7	340463	TRUE	PG
+Iron Man 3	2013	PG-13	130	7.1	851729	TRUE	PG
+Just Friends	2005	PG-13	96	6.2	120304	TRUE	PG
+The Nutcracker and the Four Realms	2018	PG	99	5.6	34589	TRUE	PG
+Surviving Christmas	2004	PG-13	91	5.4	25766	TRUE	PG
+Home for Christmas	2019	TV-MA	29	7.7	15078	TRUE	Other
+Jingle Jangle: A Christmas Journey	2020	PG	122	6.4	19376	TRUE	PG
+Bad Santa 2	2016	R	92	5.6	26591	TRUE	Other
+The Man Who Invented Christmas	2017	PG	104	7	17071	TRUE	PG
+Rise of the Guardians	2012	PG	97	7.2	177997	TRUE	PG
+A Merry Friggin' Christmas	2014	PG-13	88	5.1	7539	TRUE	PG
+A Christmas Story 2	2012	PG	85	3.5	2715	TRUE	PG
+The Gift of Peace	2022	TV-G	84	7.1	459	FALSE	G
+Serendipity	2001	PG-13	90	6.8	114918	TRUE	PG
+Angel Falls Christmas	2021	6	84	5	2989	TRUE	Other
+A Christmas Miracle for Daisy	2021	AL	85	6	1939	TRUE	Other
+This Christmas	2007	PG-13	117	6.3	9806	TRUE	PG
+A Christmas Prince	2017	TV-PG	92	5.8	20427	TRUE	PG
+A Christmas Horror Story	2015	Not Rated	99	5.8	11257	TRUE	Other
+Time for Him to Come Home for Christmas	2022	TV-G	84	7.6	1035	FALSE	G
+Santa's Slay	2005	R	78	5.3	10588	TRUE	Other
+Dash & Lily	2020	TV-14	NA	7.5	19933	TRUE	Other
+The Nativity Story	2005	PG	101	6.8	11902	TRUE	PG
+A Christmas to Treasure	2022	TV-G	89	4.8	294	FALSE	G
+The Best Man Holiday	2013	R	123	6.6	16148	TRUE	Other
+A Very Harold & Kumar Christmas	2011	R	90	6.2	70631	TRUE	Other
+Sister Swap: A Hometown Holiday	2021	TV-G	83	6.3	1199	FALSE	G
+Silver Linings Playbook	2012	R	122	7.7	711659	TRUE	Other
+Christmas Inheritance	2017	AL	104	5.7	12413	TRUE	Other
+Single and Ready to Jingle	2022	TV-PG	90	5.6	251	FALSE	PG
+The Knight Before Christmas	2019	TV-PG	92	5.6	18856	TRUE	PG
+Next Stop, Christmas	2021	TV-G	84	7	2195	TRUE	G
+The Princess Switch	2018	TV-PG	101	6.1	29043	TRUE	PG
+Falling for Christmas	2016	TV-G	87	6.2	1494	TRUE	G
+My Christmas Family Tree	2021	TV-G	84	7.6	1974	TRUE	G
+A Very Country Christmas	2017	PG	84	6.1	1836	TRUE	PG
+A California Christmas	2020	PG-13	106	5.8	10509	TRUE	PG
+Sister Swap: Christmas in the City	2021	TV-G	84	5.9	863	FALSE	G
+Almost Christmas	2016	PG-13	111	6.1	7198	TRUE	PG
+A Big Fat Family Christmas	2022	TV-G	85	6.4	519	FALSE	G
+Long Lost Christmas	2022	TV-G	84	6.8	639	FALSE	G
+The Christmas Train	2017	TV-G	99	6.4	3046	TRUE	G
+Too Close For Christmas	2020	G	88	5.7	2518	TRUE	G
+Nativity 2: Danger in the Manger!	2012	Not Rated	105	5.3	4051	TRUE	Other
+Crown for Christmas	2015	TV-G	86	6.9	5117	TRUE	G
+An Unexpected Christmas	2021	TV-G	83	6.9	2145	TRUE	G
+Christmas Under Wraps	2014	TV-G	88	6.2	5786	TRUE	G
+The Flight Before Christmas	2015	TV-PG	88	5.9	1895	TRUE	PG
+Operation Christmas Drop	2020	TV-G	95	5.8	12108	TRUE	G
+Christmas with a Prince	2018	TV-PG	90	5.3	1850	TRUE	PG
+Blending Christmas	2021	TV-PG	85	5.4	418	FALSE	PG
+Christmas Is Canceled	2021	R	95	4.7	1321	TRUE	Other
+Instant Family	2018	PG-13	118	7.3	108761	TRUE	PG
+Saving Christmas Spirit	2022	NA	90	5.7	188	FALSE	Other
+The Search for Santa Paws	2010	G	96	5.3	2941	TRUE	G
+Christmas Made to Order	2018	TV-G	80	5.7	4637	TRUE	G
+A Kindhearted Christmas	2021	AL	84	6.2	1382	TRUE	Other
+Christmas on the Farm	2021	AL	86	5.2	695	FALSE	Other
+A Cinderella Story: Christmas Wish	2019	PG	85	5.3	6923	TRUE	PG
+A Christmas in Vermont	2016	TV-PG	86	5.5	1107	FALSE	PG
+Cloudy with a Chance of Christmas	2022	NA	90	5.6	226	FALSE	Other
+Christmas with a View	2018	TV-PG	91	5.2	4977	TRUE	PG
+A Cozy Christmas Inn	2022	TV-G	84	6	699	FALSE	G
+A Christmas Wish	2011	Not Rated	97	6.5	1959	TRUE	Other
+Get Santa	2014	PG	102	6.3	4204	TRUE	PG
+The Princess Switch: Switched Again	2020	TV-G	96	5.4	12165	TRUE	G
+12 Dates of Christmas	2011	PG	90	6.3	7300	TRUE	PG
+The Princess Switch 3	2021	TV-PG	106	5.5	6482	TRUE	PG
+A Princess for Christmas	2011	TV-G	91	6.3	8560	TRUE	G
+The Spirit of Christmas	2015	Unrated	91	6.4	7556	TRUE	Other
+The Holiday Calendar	2018	TV-PG	95	5.7	10695	TRUE	PG
+Christmas Catch	2018	TV-PG	87	5.4	1670	TRUE	PG
+Rent	2005	PG-13	135	6.8	53963	TRUE	PG
+Return to Christmas Creek	2018	TV-G	86	6.1	2128	TRUE	G
+No Sleep 'Til Christmas	2018	TV-14	90	6.5	2590	TRUE	Other
+Nativity 3: Dude, Where's My Donkey?!	2014	NA	109	3.6	1913	TRUE	Other
+Nativity Rocks!	2018	NA	100	4.3	700	FALSE	Other
+12 Gifts of Christmas	2015	TV-G	83	6.3	4871	TRUE	G
+Godmothered	2020	PG	110	6.1	12915	TRUE	PG
+Crown Prince of Christmas	2022	NA	85	5.2	172	FALSE	Other
+Christmas Wedding Planner	2017	PG	86	4.4	6370	TRUE	PG
+Tokyo Godfathers	2003	PG-13	92	7.8	41712	TRUE	PG
+The Christmas Shoes	2002	TV-PG	100	6.6	2732	TRUE	PG
+All I Didn't Want for Christmas	2022	NA	89	6.2	149	FALSE	Other
+Debbie Macomber's Dashing Through the Snow	2015	Not Rated	83	6.5	2422	TRUE	Other
+The Most Wonderful Time of the Year	2008	TV-PG	88	7.3	4477	TRUE	PG
+Christmas at Castle Hart	2021	TV-G	84	6.3	1606	TRUE	G
+A Christmas Carol: The Musical	2004	Not Rated	97	6.3	2057	TRUE	Other
+A Taste of Christmas	2020	TV-PG	91	5.6	546	FALSE	PG
+Family for Christmas	2015	TV-G	82	6.2	2394	TRUE	G
+Christmas Reservations	2019	TV-PG	86	6	839	FALSE	PG
+Charlotte's Web	2006	G	97	6.3	43275	TRUE	G
+The Christmas Card	2006	NA	84	6.9	4233	TRUE	Other
+Coming Home for Christmas	2017	TV-G	86	6.6	2229	TRUE	G
+A Christmas Movie Christmas	2019	Unrated	85	5.6	1363	TRUE	Other
+A Cinderella Christmas	2016	Unrated	93	6.2	3234	TRUE	Other
+Noel	2004	PG	96	6.1	10096	TRUE	PG
+I'm Glad It's Christmas	2022	NA	85	6.7	318	FALSE	Other
+Christmas on the Square	2020	TV-PG	98	5.2	2858	TRUE	PG
+Mrs. Miracle	2009	Not Rated	90	6.6	3043	TRUE	Other
+Feast of the Seven Fishes	2019	NA	99	6.7	1387	TRUE	Other
+Love, Lights, Hanukkah!	2020	TV-G	84	6.8	1010	FALSE	G
+Hometown Holiday	2018	TV-PG	84	5.1	1120	FALSE	PG
+Reindeer Games Homecoming	2022	TV-PG	90	7	410	FALSE	PG
+Jingle Bell Princess	2021	7+	90	6.5	908	FALSE	Other
+Christmas in Evergreen	2017	TV-G	84	6.5	2707	TRUE	G
+Kirk Cameron's Saving Christmas	2014	PG	79	1.3	16146	TRUE	PG
+Merry Swissmas	2022	TV-PG	88	5.4	444	FALSE	PG
+The Christmas House	2020	TV-G	84	6	2283	TRUE	G
+One Christmas Eve	2014	Not Rated	86	6	1480	TRUE	Other
+Christmas Again	2021	AL	94	5.2	956	FALSE	Other
+Small Town Christmas	2018	TV-G	85	6.7	1704	TRUE	G
+Holiday in Santa Fe	2021	AL	85	6.1	961	FALSE	Other
+The Sweetest Christmas	2017	TV-G	90	6.3	2450	TRUE	G
+Dear Christmas	2020	TV-G	86	6	1301	TRUE	G
+One Royal Holiday	2020	TV-G	87	7	2110	TRUE	G
+Barbie in the Nutcracker	2001	TV-Y	76	6.3	6796	TRUE	Other
+Christmas at the Plaza	2019	TV-G	84	6.5	2900	TRUE	G
+The Mistle-Tones	2012	TV-PG	90	6.4	2353	TRUE	PG
+A Christmas Prince: The Royal Wedding	2018	TV-PG	92	5.3	11200	TRUE	PG
+A Timeless Christmas	2020	TV-G	84	7	2680	TRUE	G
+Christmas in the Smokies	2015	TV-G	88	5.8	1519	TRUE	G
+Christmas at the Palace	2018	TV-G	85	6.3	2276	TRUE	G
+A New Orleans Noel	2022	TV-PG	85	5.9	175	FALSE	PG
+Rocky Mountain Christmas	2017	TV-G	90	6.5	1681	TRUE	G
+Christmas Plus One	2022	NA	92	6.1	198	FALSE	Other
+How to Ruin Christmas	2020	TV-MA	50	6.4	589	FALSE	Other
+Christmas Ransom	2022	NA	84	4.7	221	FALSE	Other
+A Veteran's Christmas	2018	TV-G	84	6.9	2085	TRUE	G
+The Mistletoe Promise	2016	TV-G	84	6.6	3432	TRUE	G
+A Bride for Christmas	2012	TV-G	84	6.5	4260	TRUE	G
+The Christmas Setup	2020	TV-PG	85	6.8	2499	TRUE	PG
+The Christmas Miracle of Jonathan Toomey	2007	6	91	6.4	1144	FALSE	Other
+Silent Night	2002	TV-PG	100	7.5	1724	TRUE	PG
+A Christmas Love Story	2019	TV-G	84	6.9	1527	TRUE	G
+A Shoe Addict's Christmas	2018	TV-G	85	6.5	2721	TRUE	G
+The Christmas Cottage	2017	TV-G	90	6.3	2142	TRUE	G
+Call Me Mrs. Miracle	2010	Not Rated	90	6.8	2241	TRUE	Other
+A Royal Christmas	2014	TV-G	90	6.5	4633	TRUE	G
+Scentsational Christmas	2022	TV-PG	85	5.3	190	FALSE	PG
+A Christmas Prince: The Royal Baby	2019	TV-PG	84	5.4	7198	TRUE	PG
+My Dad's Christmas Date	2020	NA	91	5.5	1879	TRUE	Other
+Christmas in Conway	2013	TV-PG	97	6.7	1942	TRUE	PG
+A Christmas Wish	2019	TV-PG	90	6.2	947	FALSE	PG
+Christmas at Graceland	2018	TV-G	85	5.7	1610	TRUE	G
+Five Star Christmas	2020	TV-G	84	6.9	2207	TRUE	G
+A Glenbrooke Christmas	2020	TV-G	85	6.6	1411	TRUE	G
+Santa Games	2022	NA	NA	4.5	116	FALSE	Other
+The Holiday Stocking	2022	TV-G	84	6.9	275	FALSE	G
+Christmas by Starlight	2020	TV-G	84	7.2	1898	TRUE	G
+Christmas with the Darlings	2020	TV-G	84	7.1	1508	TRUE	G
+Love You Like Christmas	2016	TV-G	90	6.4	1952	TRUE	G
+Mistletoe & Menorahs	2019	TV-PG	85	6.4	885	FALSE	PG
+A Heavenly Christmas	2016	TV-G	93	6.4	1940	TRUE	G
+Christmas Getaway	2017	TV-G	90	7	3184	TRUE	G
+Christmas Cupid	2010	PG-13	85	5.4	3896	TRUE	PG
+Christmas in Evergreen: Tidings of Joy	2019	TV-G	85	6.4	1560	TRUE	G
+Christmas with a Prince: Becoming Royal	2019	TV-G	93	5.8	593	FALSE	G
+Ghosts of Christmas Past	2021	AL	87	6.3	533	FALSE	Other
+Thomas Kinkade's Christmas Cottage	2008	PG	96	6.3	2685	TRUE	PG
+Christmas Eve	2015	PG	95	5	2727	TRUE	PG
+Christmas in Vienna	2020	TV-G	83	6.4	1457	TRUE	G
+Toying with the Holidays	2021	TV-PG	86	6.3	546	FALSE	PG
+Cross Country Christmas	2020	TV-G	83	6.6	1667	TRUE	G
+A Godwink Christmas: Second Chance, First Love	2020	TV-G	85	6.7	1114	FALSE	G
+The Christmas Contract	2018	TV-PG	89	6.8	2669	TRUE	PG
+Christmas in Evergreen: Letters to Santa	2018	TV-G	84	6.6	1900	TRUE	G
+A Christmas Star	2021	7+	84	6.5	727	FALSE	Other
+Christmas on My Mind	2019	AL	84	6.4	1487	TRUE	Other
+Christmas in Tune	2021	TV-PG	87	7	629	FALSE	PG
+Swept Up by Christmas	2019	TV-G	84	6.2	859	FALSE	G
+Christmas Sweethearts	2019	TV-G	90	5.1	460	FALSE	G
+On the 12th Date of Christmas	2020	TV-G	84	7.2	2003	TRUE	G
+Snowglobe	2007	TV-PG	86	5.9	2633	TRUE	PG
+My Favorite Christmas Tree	2022	AL	90	6.1	241	FALSE	Other
+My Christmas Fiancé	2022	NA	92	4.6	166	FALSE	Other
+Candy Coated Christmas	2021	NA	83	5.8	445	FALSE	Other
+Christmas Time Is Here	2021	AL	85	5.4	505	FALSE	Other
+Just Another Christmas	2020	6	100	6.7	4867	TRUE	Other
+The Nine Kittens of Christmas	2021	TV-G	84	6.6	1511	TRUE	G
+Christmas Bells Are Ringing	2018	TV-G	88	6.4	1536	TRUE	G
+Double Holiday	2019	TV-G	84	6.8	1352	TRUE	G
+Elf: Buddy's Musical Christmas	2013	TV-G	43	5.4	1145	FALSE	G
+A Gift Wrapped Christmas	2015	TV-PG	87	7	1764	TRUE	PG
+A Christmas Detour	2015	TV-G	85	6.1	3194	TRUE	G
+If I Only Had Christmas	2020	TV-G	84	6.3	1518	TRUE	G
+Santa's Boots	2018	TV-PG	85	6.2	655	FALSE	PG
+Christmas on the Range	2019	TV-G	90	6.2	564	FALSE	G
+Christmas Wonderland	2018	TV-G	120	5.9	3270	TRUE	G
+A December Bride	2016	TV-G	86	6.7	3351	TRUE	G
+Christmas in Angel Falls	2017	TV-G	84	6.5	1562	TRUE	G
+Christmas for a Dollar	2013	PG	101	6.9	634	FALSE	PG
+Chateau Christmas	2020	TV-G	84	6.4	1610	TRUE	G
+Christmas in Wonderland	2006	PG	95	4.7	2370	TRUE	PG
+Secretly Santa	2021	AL	85	5.3	404	FALSE	Other
+The Nine Lives of Christmas	2014	TV-G	86	7.1	4162	TRUE	G
+One Delicious Christmas	2022	NA	84	6.2	112	FALSE	Other
+A Christmas Carousel	2020	TV-G	85	6	1056	FALSE	G
+Lost at Christmas	2020	NA	100	5.1	561	FALSE	Other
+Just in Time for Christmas	2015	TV-G	96	6.4	2668	TRUE	G
+Home by Christmas	2006	TV-14	95	6.3	872	FALSE	Other
+The Tree That Saved Christmas	2014	TV-G	88	6.1	1110	FALSE	G
+Unlocking Christmas	2020	TV-G	85	6.4	1169	FALSE	G
+Christmas Tree Lane	2020	TV-G	84	6.5	1180	FALSE	G
+Homegrown Christmas	2018	TV-G	88	5.9	1075	FALSE	G
+A Gift for Christmas	2017	TV-G	89	6.6	2308	TRUE	G
+A Golden Christmas	2009	TV-PG	95	5.5	1324	TRUE	PG
+Christmas Movie Magic	2021	AL	87	6.2	550	FALSE	Other
+Time for Us to Come Home for Christmas	2020	TV-G	84	7	1377	TRUE	G
+Eve's Christmas	2004	TV-PG	96	5.9	1155	FALSE	PG
+The Christmas Club	2019	TV-G	84	6.7	1395	TRUE	G
+Snow Bride	2013	TV-G	84	6.7	3495	TRUE	G
+A Snow Globe Christmas	2013	TV-PG	89	5.4	1195	FALSE	PG
+Trading Christmas	2010	G	87	6.9	1713	TRUE	G
+A Very Nutty Christmas	2018	TV-PG	90	5.9	1378	TRUE	PG
+A Dog Named Christmas	2009	PG	95	7.4	1278	TRUE	PG
+Christmas Break-In	2018	NA	87	4.5	1640	TRUE	Other
+Christmas at Graceland: Home for the Holidays	2019	TV-G	84	6.3	1040	FALSE	G
+'Twas the Night	2001	TV-G	84	5.2	1116	FALSE	G
+Christmas on Mistletoe Lake	2022	TV-PG	87	5.4	248	FALSE	PG
+Much Ado About Christmas	2021	7+	85	6.8	758	FALSE	Other
+Time for Me to Come Home for Christmas	2018	TV-G	84	6.6	1571	TRUE	G
+A Christmas to Remember	2016	TV-G	84	6.5	2487	TRUE	G
+Kirk Franklin's A Gospel Christmas	2021	TV-G	87	6.4	287	FALSE	G
+Naughty & Nice	2014	TV-PG	88	5.9	1606	TRUE	PG
+Making Spirits Bright	2021	TV-G	84	6.1	724	FALSE	G
+A Christmas in Tennessee	2018	TV-PG	87	6.7	1360	TRUE	PG
+The Christmas Note	2015	Not Rated	85	6.7	1388	TRUE	Other
+Picture a Perfect Christmas	2019	TV-G	84	6.9	1655	TRUE	G
+Christmas at Rosemont	2015	TV-14	95	6.6	792	FALSE	Other
+A Royal Christmas Ball	2017	TV-PG	86	4.6	965	FALSE	PG
+A Godwink Christmas: Miracle of Love	2021	TV-G	84	6.2	732	FALSE	G
+Nagykarácsony	2021	NA	110	6.3	1009	FALSE	Other
+Christmas in Love	2018	TV-G	84	6.3	2059	TRUE	G
+Fixing Up Christmas	2021	AL	85	5.9	366	FALSE	Other
+Project Christmas Wish	2020	TV-G	85	6.9	1240	TRUE	G
+A Very Charming Christmas Town	2020	TV-PG	88	5.9	850	FALSE	PG
+The Last Christmas Home	2018	TV-G	82	5.8	1052	FALSE	G
+A Dickens of a Holiday!	2021	AL	84	7.3	1161	FALSE	Other
+A Royal Queens Christmas	2021	TV-G	84	6.4	1165	FALSE	G
+A Very Corgi Christmas	2019	NA	90	5.3	607	FALSE	Other
+Christmas in Toyland	2022	NA	85	6.4	597	FALSE	Other
+Northpole	2014	G	81	6.3	1886	TRUE	G
+A Taste of Christmas	2017	Unrated	84	5.9	1449	TRUE	Other
+Christmas in Paris	2019	G	90	5.1	564	FALSE	G
+Cranberry Christmas	2020	NA	84	6.5	989	FALSE	Other
+Let It Snow	2013	TV-G	82	6.6	3015	TRUE	G
+A Twist of Christmas	2018	TV-PG	87	6.4	919	FALSE	PG
+Christmas Ever After	2020	TV-G	87	6.1	752	FALSE	G
+Holly & Ivy	2020	TV-G	85	7.1	1220	TRUE	G
+A Wish For Christmas	2016	TV-G	84	5.9	4874	TRUE	G
+A Bramble House Christmas	2017	Not Rated	84	7.1	2404	TRUE	Other
+A Boyfriend for Christmas	2004	TV-G	94	6.4	3320	TRUE	G
+Love at the Christmas Contest	2022	NA	90	5.7	269	FALSE	Other
+The Christmas Project	2016	TV-PG	92	5.5	509	FALSE	PG
+Christmas Cookies	2016	TV-G	84	6.4	2432	TRUE	G
+Switched for Christmas	2017	TV-G	83	6.6	3100	TRUE	G
+Good Morning Christmas!	2020	TV-G	84	6.9	1543	TRUE	G
+Angel of Christmas	2015	TV-G	84	6.2	2223	TRUE	G
+A Puppy for Christmas	2016	TV-PG	85	5.9	1079	FALSE	PG
+A Perfect Christmas	2016	TV-G	84	6.1	1333	TRUE	G
+Spotlight on Christmas	2020	TV-PG	84	6.1	780	FALSE	PG
+The Santa Suit	2010	TV-G	89	6.5	1021	FALSE	G
+Snow	2004	NA	120	6.4	1945	TRUE	Other
+The Twelve Days of Christmas Eve	2004	PG	85	5.7	1058	FALSE	PG
+The Enchanted Christmas Cake	2021	NA	90	5.4	544	FALSE	Other
+Never Kiss a Man in a Christmas Sweater	2020	TV-G	84	6.7	1847	TRUE	G
+Dashing in December	2020	TV-14	88	6.2	1356	TRUE	Other
+Pride, Prejudice and Mistletoe	2018	TV-PG	82	6.2	2089	TRUE	PG
+Christmas Child	2004	Not Rated	96	6.2	613	FALSE	Other
+A Blue Ridge Mountain Christmas	2019	TV-G	84	6.1	1168	FALSE	G
+Cherished Memories: A Gift to Remember 2	2019	TV-G	86	6.1	930	FALSE	G
+Angels and Ornaments	2014	TV-G	84	6.8	1220	TRUE	G
+It's Christmas, Eve	2018	TV-G	84	6.5	1364	TRUE	G
+Saving Santa	2013	Not Rated	83	5.3	2698	TRUE	Other
+Silver Bells	2005	TV-G	95	6.4	1225	TRUE	G
+Snowmance	2017	Unrated	90	5.2	974	FALSE	Other
+A Dennis the Menace Christmas	2007	G	83	4.7	2106	TRUE	G
+A Christmas Kiss II	2014	Unrated	88	5.9	2081	TRUE	Other
+The Christmas Bow	2020	TV-G	83	6.7	1076	FALSE	G
+Journey Back to Christmas	2016	TV-G	84	7	2950	TRUE	G
+Once Upon a Main Street	2020	TV-PG	87	6.3	690	FALSE	PG
+Christmas on the Rocks	2022	NA	90	6.4	72	FALSE	Other
+Christmas Around the Corner	2018	TV-PG	90	6.6	1596	TRUE	PG
+A Christmas Princess	2019	TV-PG	90	5.5	768	FALSE	PG
+Magic Stocking	2015	AL	86	6.4	1566	TRUE	Other
+The Spruces and the Pines	2017	Unrated	86	6	976	FALSE	Other
+Magical Christmas Ornaments	2017	TV-14	90	6.3	1757	TRUE	Other
+Four Christmases and a Wedding	2017	TV-14	90	5.9	1319	TRUE	Other
+Time for You to Come Home for Christmas	2019	TV-G	84	7	1061	FALSE	G
+My Christmas Love	2016	TV-G	85	6.2	2737	TRUE	G
+Deliver by Christmas	2020	TV-G	84	6.6	1212	TRUE	G
+A Wedding for Christmas	2018	AL	90	5.3	942	FALSE	Other
+Hitched for the Holidays	2012	TV-PG	87	6.5	2118	TRUE	PG
+Christmas at Cartwright's	2014	TV-G	84	6.3	1979	TRUE	G
+An Accidental Christmas	2007	TV-PG	90	4.4	586	FALSE	PG
+Jingle Bell Bride	2020	TV-G	84	6.1	1225	TRUE	G
+Finding Father Christmas	2016	TV-G	84	6.8	2388	TRUE	G
+Girlfriends of Christmas Past	2016	TV-PG	90	5.1	911	FALSE	PG
+The Christmas Edition	2020	TV-PG	88	6.1	650	FALSE	PG
+Window Wonderland	2013	TV-G	86	6.7	2242	TRUE	G
+Christmas on Ice	2020	TV-PG	87	6.1	956	FALSE	PG
+The Perfect Christmas Present	2017	TV-G	82	6.3	1705	TRUE	G
+Shoelaces for Christmas	2018	TV-PG	90	6.3	470	FALSE	PG
+A Merry Christmas Match	2019	TV-G	82	5.8	1270	TRUE	G
+A Godwink Christmas: Meant for Love	2019	Not Rated	85	6.9	1638	TRUE	Other
+A Christmas Coincidence	2018	TV-G	87	6.6	1754	TRUE	G
+Charming Christmas	2015	TV-G	85	6.1	1842	TRUE	G
+Christmas Land	2015	TV-G	84	5.8	2698	TRUE	G
+Prancer Returns	2001	Not Rated	91	5.8	630	FALSE	Other
+The Dog Days of Christmas	2021	NA	88	5.2	248	FALSE	Other
+Elf-Man	2012	Not Rated	86	3.5	727	FALSE	Other
+Christmas Wishes and Mistletoe Kisses	2019	TV-G	84	6.5	1701	TRUE	G
+Christmas Encore	2017	TV-G	83	5.7	1274	TRUE	G
+A Christmas in Royal Fashion	2018	AL	90	5.3	718	FALSE	Other
+Christmas at Pemberley Manor	2018	TV-G	84	6.2	2553	TRUE	G
+A Candy Cane Christmas	2020	TV-PG	91	5.5	681	FALSE	PG
+Christmas Under the Stars	2019	TV-G	82	6.7	2033	TRUE	G
+Christmas Mail	2010	TV-PG	89	5.3	1799	TRUE	PG
+Road to Christmas	2018	TV-G	84	6.7	2025	TRUE	G
+Love at the Christmas Table	2012	Not Rated	89	6.3	2609	TRUE	Other
+One Starry Christmas	2014	TV-G	83	6.5	2215	TRUE	G
+It's Beginning to Look a Lot Like Christmas	2019	TV-G	83	6	948	FALSE	G
+Inn Love by Christmas	2020	NA	88	5.9	718	FALSE	Other
+48 Christmas Wishes	2017	TV-G	84	3.9	1195	FALSE	G
+Christmas Next Door	2017	TV-G	86	6.5	2547	TRUE	G
+Rediscovering Christmas	2019	TV-G	87	5.8	430	FALSE	G
+Boyfriends of Christmas Past	2021	TV-G	84	6	1134	FALSE	G
+A Christmas Reunion	2015	TV-G	86	5.1	778	FALSE	G
+Marrying Father Christmas	2018	TV-G	85	6.3	1392	TRUE	G
+It's Christmas, Carol!	2012	TV-G	87	5.8	945	FALSE	G
+Broadcasting Christmas	2016	TV-G	84	6	1899	TRUE	G
+Red Snow	2021	NA	80	5.4	1874	TRUE	Other
+A Song for Christmas	2017	TV-G	89	5.9	877	FALSE	G
+Christmas Scavenger Hunt	2019	TV-G	82	6	1272	TRUE	G
+Sleigh Bells Ring	2016	TV-G	82	6.3	1398	TRUE	G
+The Christmas Chalet	2019	AL	90	6.6	867	FALSE	Other
+Mistletoe Match	2022	NA	NA	6.5	87	FALSE	Other
+Santa Baby	2006	PG	89	5.5	1771	TRUE	PG
+Christmas on Repeat	2022	NA	89	5.5	148	FALSE	Other
+The Christmas Sitters	2020	NA	80	5.4	205	FALSE	Other
+Matchmaker Santa	2012	TV-G	75	6.5	2454	TRUE	G
+Merry Liddle Christmas	2019	TV-G	87	5.8	594	FALSE	G
+Winnie the Pooh: A Very Merry Pooh Year	2002	G	65	6.6	2688	TRUE	G
+Christmas Perfection	2018	TV-PG	90	5.5	950	FALSE	PG
+The Christmas Doctor	2020	TV-G	84	6.9	818	FALSE	G
+Christmas on 5th Avenue	2021	NA	84	6.4	363	FALSE	Other
+Christmas in the Highlands	2019	NA	84	4.8	735	FALSE	Other
+A Christmas Star	2015	AL	82	5.1	1994	TRUE	Other
+Christmas in the Air	2017	TV-G	84	6.2	1333	TRUE	G
+Paper Angels	2014	Not Rated	90	6.6	662	FALSE	Other
+The Christmas Cure	2017	TV-G	87	6.2	1562	TRUE	G
+A Chance for Christmas	2021	TV-PG	92	5.8	439	FALSE	PG
+Gingerbread Miracle	2021	NA	84	6.6	1066	FALSE	Other
+Christmas on the Menu	2020	TV-PG	88	6.2	593	FALSE	PG
+My Christmas Inn	2018	TV-G	100	5.5	2340	TRUE	G
+Santa & Cie	2017	TV-PG	92	6.3	2695	TRUE	PG
+Christmas Time	2017	TV-PG	90	5.9	470	FALSE	PG
+A Christmas Carol	2012	NA	82	3.5	191	FALSE	Other
+The Christmas Shepherd	2014	NA	84	6.7	1259	TRUE	Other
+Mariah Carey's Magical Christmas Special	2020	TV-G	43	5.7	1419	TRUE	G
+The Engagement Clause	2016	TV-PG	87	5.5	1282	TRUE	PG
+A Christmas Exchange	2020	TV-PG	87	6	615	FALSE	PG
+Chasing Christmas	2005	PG	81	5.1	839	FALSE	PG
+Picture Perfect Royal Christmas	2020	NA	85	5.4	440	FALSE	Other
+Journey to the Christmas Star	2012	G	80	5.7	1598	TRUE	G
+Nantucket Noel	2021	TV-G	84	5.9	909	FALSE	G
+The Christmas Ornament	2013	TV-G	83	6.7	2055	TRUE	G
+On the Twelfth Day of Christmas	2015	TV-G	84	6.8	2101	TRUE	G
+Help for the Holidays	2012	TV-G	90	6.6	2290	TRUE	G
+A Royal Christmas Engagement	2020	NA	86	4.8	412	FALSE	Other
+Christmas List	2016	TV-G	84	6.1	2051	TRUE	G
+Christmas She Wrote	2020	TV-G	84	5.8	1133	FALSE	G
+Wrapped Up in Christmas	2017	TV-PG	90	6	830	FALSE	PG
+Once Upon a Holiday	2015	TV-G	84	6.1	3335	TRUE	G
+Christmas Incorporated	2015	TV-G	85	6.4	2167	TRUE	G
+Christmas Pen Pals	2018	TV-PG	87	7	1378	TRUE	PG
+Christmas in Homestead	2016	TV-G	84	6.5	2491	TRUE	G
+The Christmas Dance	2021	NA	94	4.6	236	FALSE	Other
+A Christmas for the Books	2018	NA	90	5.2	977	FALSE	Other
+A Joyous Christmas	2017	TV-G	84	6.2	1372	TRUE	G
+12 Days of Giving	2017	TV-G	87	6	1004	FALSE	G
+Pete's Christmas	2013	PG	86	6	1949	TRUE	PG
+Northpole: Open for Christmas	2015	TV-G	83	6.1	1868	TRUE	G
+The Christmas Blessing	2005	TV-G	96	6.2	1186	FALSE	G
+Hope at Christmas	2018	TV-G	82	6.5	1384	TRUE	G
+Signed, Sealed, Delivered for Christmas	2014	Not Rated	84	7.5	1478	TRUE	Other
+An Evergreen Christmas	2014	PG	98	5.7	456	FALSE	PG
+A Perfect Christmas List	2014	TV-G	88	5.6	1203	TRUE	G
+Ice Sculpture Christmas	2015	TV-G	83	6.5	2206	TRUE	G
+The Great Holiday Bake War	2022	NA	84	6	51	FALSE	Other
+His and Her Christmas	2005	TV-PG	89	5	696	FALSE	PG
+All About Christmas Eve	2012	PG-13	88	5.7	1217	TRUE	PG
+Christmas in the City	2013	TV-PG	87	5.7	1579	TRUE	PG
+Random Acts of Christmas	2019	TV-G	88	6.5	1024	FALSE	G
+Enchanted Christmas	2017	TV-G	84	5.8	1344	TRUE	G
+Christmas Harmony	2018	TV-PG	85	6.3	723	FALSE	PG
+3 Holiday Tails	2011	TV-PG	88	5.5	805	FALSE	PG
+Christmas in Harmony	2021	TV-G	84	5.5	680	FALSE	G
+Our Christmas Love Song	2019	Not Rated	82	6.3	1000	FALSE	Other
+Pups Alone	2021	PG	107	3.5	1355	TRUE	PG
+It Takes a Christmas Village	2021	TV-PG	87	6.5	435	FALSE	PG
+Meet Me at Christmas	2020	AL	83	6.4	1001	FALSE	Other
+A Very Merry Toy Store	2017	TV-PG	90	5.5	1034	FALSE	PG
+Homemade Christmas	2020	TV-PG	85	5.8	605	FALSE	PG
+All I Want for Christmas	2022	PG	NA	5.3	26	FALSE	PG
+A Sugar & Spice Holiday	2020	TV-G	84	6.4	508	FALSE	G
+Two Turtle Doves	2019	AL	84	6.8	1273	TRUE	Other
+The Christmas Spirit	2013	TV-G	84	5.8	1019	FALSE	G
+Engaging Father Christmas	2017	TV-G	88	6.7	1640	TRUE	G
+The Case of the Christmas Diamond	2022	NA	90	6.1	98	FALSE	Other
+A Belle for Christmas	2014	PG	91	4.7	504	FALSE	PG
+Barbie: A Perfect Christmas	2011	Not Rated	74	5.4	1078	FALSE	Other
+Christmas Collision	2021	NA	95	3.5	189	FALSE	Other
+The Christmas Gift	2015	TV-PG	85	5.3	736	FALSE	PG
+Ghosting: The Spirit of Christmas	2019	TV-14	87	5.9	543	FALSE	Other
+Christmas Unwrapped	2020	TV-G	87	6.1	884	FALSE	G
+Once Upon a Time at Christmas	2017	R	97	3.4	610	FALSE	Other
+Christmas with the Andersons	2016	Unrated	90	4.1	502	FALSE	Other
+Sound of Christmas	2016	TV-G	84	6.4	1113	FALSE	G
+Welcome to Christmas	2018	TV-G	90	6.3	1367	TRUE	G
+Mistletoe Magic	2019	NA	85	6.3	472	FALSE	Other
+The Christmas High Note	2020	TV-G	85	5.1	259	FALSE	G
+Christmas Festival of Ice	2017	TV-G	84	5.9	1215	TRUE	G
+Christmas Belles	2019	TV-14	85	6.2	149	FALSE	Other
+'Tis the Season for Love	2015	TV-G	98	6.3	1888	TRUE	G
+A Christmas Stray	2021	TV-PG	84	6.3	231	FALSE	PG
+A Christmas Tree Miracle	2013	TV-G	102	6.5	879	FALSE	G
+Christmas at Holly Lodge	2017	TV-G	84	6.5	1622	TRUE	G
+A Country Christmas Story	2013	Not Rated	120	6.3	632	FALSE	Other
+12 Dog Days Till Christmas	2014	Unrated	90	4.6	503	FALSE	Other
+A Christmas Dance Reunion	2021	TV-PG	87	6.1	423	FALSE	PG
+Love Always, Santa	2016	TV-G	84	6.6	1680	TRUE	G
+Campfire Christmas	2022	TV-G	84	5.4	495	FALSE	G
+Christmas Cupcakes	2018	AL	88	5.8	648	FALSE	Other
+A Date by Christmas Eve	2019	TV-PG	93	5.8	566	FALSE	PG
+A Very Vintage Christmas	2019	TV-G	87	6.1	611	FALSE	G
+A Holiday in Harlem	2021	TV-G	84	5.4	527	FALSE	G
+A Sunburnt Christmas	2020	NA	91	6.9	739	FALSE	Other
+The Trouble with Mistletoe	2017	6	111	6.2	829	FALSE	Other
+Mr. Miracle	2014	TV-G	86	5.3	557	FALSE	G
+Snekker Andersen og Julenissen	2016	NA	70	6.4	782	FALSE	Other
+Snowbound for Christmas	2019	PG	83	5.3	681	FALSE	PG
+Christmas Staycation	2020	NA	77	5.1	874	FALSE	Other
+Wish Upon a Christmas	2015	PG-13	86	5.8	757	FALSE	PG
+Hashtag Blessed: The Movie	2022	NA	NA	6.1	28	FALSE	Other
+Christmas in Louisiana	2019	TV-PG	90	5.8	560	FALSE	PG
+Christmas Joy	2018	TV-G	84	6.4	1887	TRUE	G
+The Mistletoe Inn	2017	TV-G	84	6.4	1832	TRUE	G
+Holiday High School Reunion	2012	Not Rated	88	4.9	1353	TRUE	Other
+Letters to Satan Claus	2020	TV-14	87	4.8	452	FALSE	Other
+Jingle Around the Clock	2018	TV-G	90	6.5	1415	TRUE	G
+Christmas Everlasting	2018	TV-PG	85	6.3	1043	FALSE	PG
+Christmas Trade	2015	Not Rated	99	4.9	562	FALSE	Other
+Sweet Mountain Christmas	2019	TV-G	88	6.3	610	FALSE	G
+Christmas on Honeysuckle Lane	2018	PG	100	6.2	1234	TRUE	PG
+This Is Christmas	2017	NA	128	3.6	26	FALSE	Other
+Christmas Connection	2017	TV-G	83	6.4	1890	TRUE	G
+Christmas in the Clouds	2001	PG	96	6.4	841	FALSE	PG
+Christmas in Palm Springs	2014	Not Rated	84	5	462	FALSE	Other
+The Christmas Ring	2020	TV-G	84	6.4	1068	FALSE	G
+Christmas in Compton	2012	PG-13	93	4.6	295	FALSE	PG
+A Gingerbread Romance	2018	TV-PG	90	5.5	882	FALSE	PG
+A Christmas Duet	2019	Not Rated	84	5.9	768	FALSE	Other
+Oh Christmas Tree!	2013	TV-G	87	6.3	2403	TRUE	G
+Every Day Is Christmas	2018	TV-PG	85	5.9	515	FALSE	PG
+Christmas with Tucker	2013	Not Rated	87	6.7	648	FALSE	Other
+The Christmas Listing	2020	TV-PG	84	5.2	548	FALSE	PG
+Undercover Christmas	2003	NA	87	6.3	969	FALSE	Other
+My Christmas Dream	2016	TV-G	82	6.2	2024	TRUE	G
+Catch a Christmas Star	2013	TV-G	84	6.2	1797	TRUE	G
+Snow 2: Brain Freeze	2008	TV-PG	84	6	1103	FALSE	PG
+Best Christmas Party Ever	2014	TV-G	84	6.3	1974	TRUE	G
+A Crafty Christmas Romance	2020	TV-PG	84	5.5	540	FALSE	PG
+A Midnight Kiss	2018	TV-G	81	6	841	FALSE	G
+The Christmas Hope	2009	TV-PG	90	6.5	810	FALSE	PG
+Christmas with a Crown	2020	NA	89	5.4	1122	FALSE	Other
+Christmas a la Mode	2019	TV-PG	87	6.4	1001	FALSE	PG
+A Dog for Christmas	2015	Not Rated	89	5.5	934	FALSE	Other
+Forgotten Christmas	2019	NA	70	5.9	385	FALSE	Other
+Christmas, Again	2014	Not Rated	80	6.6	1129	FALSE	Other
+Welcome to the Christmas Family Reunion	2021	AL	87	5.1	267	FALSE	Other
+Romance at Reindeer Lodge	2017	TV-G	90	6.4	1495	TRUE	G
+My Favorite Christmas Melody	2021	TV-PG	87	5.4	214	FALSE	PG
+Kristin's Christmas Past	2013	TV-PG	86	6.2	1212	TRUE	PG
+My Sweet Holiday	2020	NA	84	5.4	554	FALSE	Other
+Christmas Truce	2015	PG-13	88	5.5	479	FALSE	PG
+Memories of Christmas	2018	TV-G	120	6.1	720	FALSE	G
+Christmas at the Chateau	2019	TV-PG	98	3.7	306	FALSE	PG
+The Truth About Christmas	2018	TV-14	90	5.6	599	FALSE	Other
+A Miracle on Christmas Lake	2016	Not Rated	110	4.4	266	FALSE	Other
+Holiday Heist	2019	TV-PG	87	5.6	144	FALSE	PG
+Dear Secret Santa	2013	PG	88	6.1	763	FALSE	PG
+Christmas Hotel	2019	TV-G	88	6	467	FALSE	G
+Letters to Santa	2011	NA	110	7.2	4585	TRUE	Other
+I'm Not Ready for Christmas	2015	TV-G	84	6	2046	TRUE	G
+A Christmas Arrangement	2018	TV-14	90	5.4	556	FALSE	Other
+Christmas All Over Again	2016	PG	78	3.8	289	FALSE	PG
+Soul Santa	2021	NA	NA	7.1	113	FALSE	Other
+Stealing Christmas	2003	TV-PG	89	5.7	947	FALSE	PG
+Christmas with a Capital C	2011	NA	81	4.3	1070	FALSE	Other
+Staging Christmas	2019	TV-G	85	5.5	520	FALSE	G
+Love's Christmas Journey	2011	TV-G	171	6.3	772	FALSE	G
+The National Tree	2009	TV-G	88	5.8	587	FALSE	G
+The Man Who Saved Christmas	2002	TV-PG	100	6.5	535	FALSE	PG
+Entertaining Christmas	2018	TV-G	85	6.1	1047	FALSE	G
+A Sisterly Christmas	2021	TV-PG	83	5.7	148	FALSE	PG
+Always and Forever Christmas	2019	TV-G	87	5.4	489	FALSE	G
+A Cheerful Christmas	2019	TV-G	83	4.9	1013	FALSE	G
+All I Want Is Christmas	2012	TV-PG	100	5.4	580	FALSE	PG
+Christmas on the Vine	2020	TV-PG	87	6.1	558	FALSE	PG
+Jingle Belle	2018	TV-PG	86	5.9	558	FALSE	PG
+Reunited at Christmas	2018	TV-G	85	6.2	1141	FALSE	G
+A Golden Christmas 3	2012	Not Rated	88	5.6	847	FALSE	Other
+A Sweet Christmas Romance	2019	TV-G	87	6.2	740	FALSE	G
+The Santa Stakeout	2021	TV-G	84	6.4	1095	FALSE	G
+Christmas Love Letter	2019	TV-PG	86	6.1	564	FALSE	PG
+An Ice Wine Christmas	2021	TV-PG	84	5.1	317	FALSE	PG
+Baking Spirits Bright	2021	TV-PG	85	5.2	237	FALSE	PG
+Cupid for Christmas	2021	PG	87	5.6	203	FALSE	PG
+The Horses of McBride	2012	Not Rated	89	6.5	342	FALSE	Other
+A Trash Truck Christmas	2020	AL	28	5.6	227	FALSE	Other
+Let's Meet Again on Christmas Eve	2020	TV-PG	87	5.7	377	FALSE	PG
+Magical Christmas Shoes	2019	TV-G	87	6.3	586	FALSE	G
+Christmas Is Here Again	2007	G	74	5.1	362	FALSE	G
+A Christmas Proposal	2008	PG	84	4.6	597	FALSE	PG
+Christmas in Canaan	2009	TV-PG	96	6.9	606	FALSE	PG
+Saying Yes to Christmas	2021	TV-PG	90	5.8	287	FALSE	PG
+Beaus of Holly	2020	NA	88	5.7	250	FALSE	Other
+Gift of the Magi	2010	Not Rated	85	5.4	534	FALSE	Other
+The Santa Con	2014	Not Rated	88	6	641	FALSE	Other
+Puppy Star Christmas	2018	PG	91	3.6	267	FALSE	PG
+This Is Our Christmas	2018	NA	79	3.3	177	FALSE	Other
+A Fairly Odd Christmas	2012	Approved	68	4.4	934	FALSE	Other
+The Christmas Pageant	2011	TV-G	87	5.5	575	FALSE	G
+Cancel Christmas	2010	TV-G	87	5.5	594	FALSE	G
+A Doggone Christmas	2016	NA	82	4.1	212	FALSE	Other
+The Santa Incident	2010	Not Rated	88	4.8	412	FALSE	Other
+Baby in a Manger	2019	G	80	5.1	254	FALSE	G
+A Christmas for Mary	2020	TV-G	90	5.8	160	FALSE	G
+Baking Christmas	2019	TV-PG	84	6.1	162	FALSE	PG
+A Christmas Eve Miracle	2015	Not Rated	80	3.5	319	FALSE	Other
+Middleton Christmas	2020	NA	92	5.5	249	FALSE	Other
+The Dog Who Saved Christmas Vacation	2010	PG	89	3.6	445	FALSE	PG
+One Christmas Wish	2015	TV-PG	86	6.8	535	FALSE	PG
+Christmas by Chance	2020	NA	97	6.1	285	FALSE	Other
+Off Season	2001	TV-G	94	5.6	352	FALSE	G
+The Dog Who Saved the Holidays	2012	PG	83	4.4	287	FALSE	PG
+A Perfect Day	2006	Not Rated	87	5.6	1152	FALSE	Other
+Christmas on Wheels	2020	TV-PG	86	5.8	432	FALSE	PG
+Royal Family Christmas	2015	NA	NA	6.7	80	FALSE	Other
+The Night Before the Night Before Christmas	2010	TV-PG	88	5.6	707	FALSE	PG
+Holiday Joy	2016	PG	87	5.4	984	FALSE	PG
+The Christmas Temp	2019	TV-PG	87	5.5	444	FALSE	PG
+Christmas Coupon	2019	Not Rated	92	3.3	231	FALSE	Other
+The Christmas Consultant	2012	TV-PG	88	5.1	587	FALSE	PG
+Christmas Proposal	2021	NA	96	4.3	82	FALSE	Other
+Operation Christmas List	2016	TV-Y	88	4.6	90	FALSE	Other
+Christmas with the Dead	2012	NA	88	6.2	91	FALSE	Other
+Christmas with the Karountzoses	2015	Not Rated	110	6.3	104	FALSE	Other
+The Littlest Light on the Christmas Tree	2004	Not Rated	44	3.7	145	FALSE	Other
+An Unremarkable Christmas	2020	TV-14	82	3.2	148	FALSE	Other
+The Key to Christmas	2020	NA	80	5.4	103	FALSE	Other
+Christmas at the Riviera	2007	NA	94	6.1	214	FALSE	Other
+I'll Be Next Door for Christmas	2018	TV-PG	100	5	796	FALSE	PG
+A New Christmas	2019	NA	79	5.3	473	FALSE	Other
+Chilly Christmas	2012	Not Rated	84	4.8	239	FALSE	Other
+Christmas on Mars	2008	Not Rated	83	5.3	797	FALSE	Other
+The Borrowed Christmas	2014	Not Rated	95	4	180	FALSE	Other
+Christmas with Cookie	2016	NA	53	4.8	74	FALSE	Other
+Christmas on the Carousel	2021	NA	71	4.4	129	FALSE	Other
+The Three Dogateers	2014	TV-Y	88	3	305	FALSE	Other
+10 Horas para o Natal	2020	NA	90	5.6	124	FALSE	Other
+Delivering Christmas	2017	TV-PG	11	7	121	FALSE	PG
+A Bulldog for Christmas	2013	TV-G	83	3.8	104	FALSE	G
+The Christmas Doodle	2021	NA	60	3.9	34	FALSE	Other
+Krauses Fest	2007	NA	88	6.6	109	FALSE	Other
+Der Weihnachtshund	2004	NA	90	5.7	76	FALSE	Other
+The Christmas Ride	2020	NA	70	5.5	78	FALSE	Other
+A Kylie Christmas: Live from the Royal Albert Hall	2015	NA	120	8.5	48	FALSE	Other
+Perfect Strangers	2015	NA	26	7.1	26	FALSE	Other
+Christmas at Cadillac Jack's	2007	NA	58	6.7	279	FALSE	Other
+Christmas Coming Out	2021	Not Rated	17	6.6	20	FALSE	Other
+Community Theater Christmas	2019	TV-14	103	7.5	53	FALSE	Other
+Christmas at the Royal Hotel	2018	NA	108	4.2	46	FALSE	Other
+Discarding Santa	2018	NA	85	4.8	41	FALSE	Other
+Blind Turn	2012	Not Rated	80	5.3	136	FALSE	Other
+Mistletoe	2011	NA	NA	3.9	10	FALSE	Other
+It's Always Sunny in Philadelphia: A Very Sunny Christmas	2005	TV-MA	43	9.2	4606	TRUE	Other
+re: View: Blood Beat	2016	NA	37	7.1	18	FALSE	Other
